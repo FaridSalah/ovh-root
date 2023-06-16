@@ -4,6 +4,9 @@
 Setting the root password:
 ~$ sudo passwd root
 
+Update the system:
+~$ sudo apt update && sudo apt upgrade -y
+
 Become root:
 ~$ sudo su
 
