@@ -2,7 +2,7 @@
 .:. Become the root user and select a password .:.
 
 Setting the root password:
-``~$ sudo passwd root``
+````~$ sudo passwd root````
 
 Update the system:
 ``~$ sudo apt update && sudo apt upgrade -y``
