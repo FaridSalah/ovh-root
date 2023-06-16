@@ -1,5 +1,5 @@
 # ovh-root
-.:.Become the root user and select a password.:.
+.:. Become the root user and select a password .:.
 
 Setting the root password:
 ~$ sudo passwd root
